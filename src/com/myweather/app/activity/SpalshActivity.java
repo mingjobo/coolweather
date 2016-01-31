@@ -1,7 +1,9 @@
-package com.myweather.app;
+package com.myweather.app.activity;
 
-import android.support.v7.app.ActionBarActivity;
+import com.myweather.app.R;
+
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
